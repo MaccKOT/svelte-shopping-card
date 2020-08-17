@@ -1,4 +1,6 @@
-# New Project
+# Svelte with shopping cart
+
+Tutorial by [W3Certified](https://youtu.be/WbGQwe1KRLQ)
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
